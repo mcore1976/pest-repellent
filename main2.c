@@ -1,5 +1,5 @@
 /*
- * PESK REPELLENT DEVICE with 40kHZ ultrasonic transducers
+ * PEST REPELLENT DEVICE with 40kHZ ultrasonic transducers
  * ATTINY85 fuses have to be set for 16,5 MHz internal clock
  *  Resistor Ladder 5-bit Digital-to-Analog converter
  * (C) Adam Loboda 2021, adam.loboda@wp.pl
