@@ -18,5 +18,5 @@ Components needed :
 
 Compilation script compileattiny85 can be used under Linux environment with AVR-GCC and AVRDUDE installed to program ATTINY85 chip. 
 
-
+The video showing whole project : https://www.youtube.com/watch?v=jshEx5GmxKw
 
