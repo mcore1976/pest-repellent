@@ -16,7 +16,7 @@ Components needed :
 - 1 x 470nF capacitor
 - (At least) 10 x 40kHZ ultrasonic transducer
 
-Compilation script compileattiny85 can be used under Linux environmet with AVR-GCC and AVRDUDE installed to program ATTINY85 chip. 
+Compilation script compileattiny85 can be used under Linux environment with AVR-GCC and AVRDUDE installed to program ATTINY85 chip. 
 
 
 
