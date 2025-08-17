@@ -4,7 +4,7 @@ Sinusoidal waveform taken from the program memory of ATTINY 85 chip is send to i
 
 The PAM4803 amplifies this 40kHZ sinusoidal wave from ATTINY  to 2 x 3 Watt audio power wich gives 100dB of audio power nearby the device. 
 
-10 ultrasonic transducer convert 10V peak-to-peak sinusoidal pulses to strong audio signal and that repels bugs nearby..
+10 ultrasonic transducer convert 10V peak-to-peak sinusoidal pulses to strong audio signal and that repels bugs nearby.. ATTENTION! Using a couple of ultrasonic TWEETERS ( small speakers ) connected in parallel may give you better flexibility with choosing different frequency combinations !
 
 Components needed :
 - 1 x ATTINY 85 chip
@@ -14,7 +14,7 @@ Components needed :
 - 1 x PAM4803 stereo audio amplifier module 2 x 3Watt
 - 1 x 100uF electrolytic capacitor
 - 1 x 470nF capacitor
-- (At least) 10 x 40kHZ ultrasonic transducer
+- (At least) 10 x 40kHZ ultrasonic transducer  OR  set of 2-4 ultrasonic TWEETERS connected in parallel
 
 Compilation script compileattiny85 can be used under Linux environment with AVR-GCC and AVRDUDE installed to program ATTINY85 chip. 
 
